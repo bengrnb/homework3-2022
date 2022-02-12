@@ -142,7 +142,7 @@ img {
 }
 
 .text {
-  margin: auto;
+  /* text-align: center; */
   max-height: 25vh;
   /* need to make sure max-height is the same as viewport height */
   overflow: auto;
